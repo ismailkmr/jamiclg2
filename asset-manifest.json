@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jamiaclg/static/css/main.8fe67283.css",
+    "main.js": "/jamiaclg/static/js/main.75a4c031.js",
+    "static/js/453.419a5d54.chunk.js": "/jamiaclg/static/js/453.419a5d54.chunk.js",
+    "index.html": "/jamiaclg/index.html",
+    "main.8fe67283.css.map": "/jamiaclg/static/css/main.8fe67283.css.map",
+    "main.75a4c031.js.map": "/jamiaclg/static/js/main.75a4c031.js.map",
+    "453.419a5d54.chunk.js.map": "/jamiaclg/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8fe67283.css",
+    "static/js/main.75a4c031.js"
+  ]
+}
