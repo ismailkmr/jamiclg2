@@ -1,0 +1,71 @@
+.App {
+  text-align: center;
+  width: 100%;
+  height: 700px;
+  
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed; /* Image will be fixed during scroll */
+
+}
+.overlay{
+  float: left;
+  background-color: #f0f0f0;
+  width: 100%;
+  height:100%;
+}
+.logo{
+  height:90px;
+  margin-top: 30px;
+}
+.header{
+  background-image: url('https://www.jaihoon.com/wp-content/uploads/Jamia-Nooriya-Arabiyya-jaihoon4.jpg');
+  height: 200px;
+  background-position: -24px -76px;
+  width: 100%;
+}
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.logBox{
+  width:600px;
+  height:400px;
+  background-color: white;
+  margin: 0 auto;
+  margin-top: 30px;
+  border-radius:3px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+.txtbox{
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 13px;
+  width: 250px;
+}
+.btnOk{
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+}
